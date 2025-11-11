@@ -1,0 +1,11 @@
+name: InventoryItemDrops
+version: '1.0'
+main: it.alessandrocalista.inventoryitemdrops.InventoryItemDrops
+api-version: '1.21'
+authors: [ Alessandro Calista ]
+description: Item in inventario direttamente smeltati
+website: https://alessandrocalista.it
+
+commands:
+  reloadiid:
+    description: "Comando per ricaricare la configurazione del plugin"
